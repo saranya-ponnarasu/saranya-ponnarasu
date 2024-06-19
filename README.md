@@ -1,4 +1,11 @@
-## Hi, I am Saranya 😊
+## Hi, I am Saranya 😊,
+
+A passionate data enthusiast building a strong background in data science and analytics.
+<br> I have completed my first project Car price prediction using Linear Regression.
+<br> I am currently learning Machine Learning, Power BI
+<br> Ask me about Python,  EDA, SQL queries, Excel.
+<br> I love solving complex problems and continuously improving my skills through hands-on projects and collaboration.
+<br> Connect with me at [LinkedIn](https://www.linkedin.com/in/saranya-ponnarasu/)
 
 
 
