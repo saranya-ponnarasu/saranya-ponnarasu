@@ -1,7 +1,7 @@
 ## Hi, I am Saranya 😊,
 
 🚀 A passionate data enthusiast, building a strong background in data science and analytics.
-<br> 🏆 I have completed my recent project Titanic Survival Predictor using Logistic Regression.
+<br> 🏆 I have completed my recent project, [predicting Bank's Term Deposit Subscribers](https://github.com/saranya-ponnarasu/Bank_TermDeposit_Prediction) using Decision Trees.
 <br> 📚 I am currently learning Machine Learning, Power BI
 <br> 🔨 Ask me about Python,  EDA, SQL queries, Excel.
 <br> 🤹 I love solving complex problems and continuously improving my skills through hands-on projects and collaboration.
