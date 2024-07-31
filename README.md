@@ -1,7 +1,7 @@
 ## Hi, I am Saranya 😊,
 
 🚀 A passionate data enthusiast, building a strong background in data science and analytics.
-<br> 🏆 I have completed my recent project, [predicting Bank's Term Deposit Subscribers](https://github.com/saranya-ponnarasu/Bank_TermDeposit_Prediction) using Decision Trees.
+<br> 🏆 I have completed my recent project, predicting customer responses to automobile insurance offers using Decision Trees, achieving a [Kaggle](https://www.kaggle.com/code/saranyaponnarasu/binary-classification-of-insurance-cross-selling) score of `0.83`.
 <br> 📚 I am currently learning Machine Learning, Power BI
 <br> 🔨 Ask me about Python,  EDA, SQL queries, Excel.
 <br> 🤹 I love solving complex problems and continuously improving my skills through hands-on projects and collaboration.
