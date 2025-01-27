@@ -2,7 +2,6 @@
 
 🚀 A passionate data enthusiast, building a strong background in data science and analytics.
 <br> 🏆 I have completed my latest project on predicting lead conversions for an edtech company using Logistic Regression, achieving an `Accuracy - Precision - Recall of 80%` [GitHub link](https://github.com/saranya-ponnarasu/Predictive_Lead_Scoring_for_Edtech).
-<br> 📚 I am currently learning Machine Learning, Power BI
 <br> 🔨 Ask me about Python,  EDA, SQL queries, Excel.
 <br> 🤹 I love solving complex problems and continuously improving my skills through hands-on projects and collaboration.
 <br> 🔗 Connect with me at [LinkedIn](https://www.linkedin.com/in/saranya-ponnarasu/)
